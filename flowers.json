@@ -1,7 +1,7 @@
 {
     "rose": {
-        "price": 33,
-        "stock": 21
+        "price": 22,
+        "stock": 20
     },
     "poppy": {
         "price": 35,
@@ -9,7 +9,7 @@
     },
     "tulip": {
         "price": 40,
-        "stock": 100
+        "stock": 10
     },
     "daffodil": {
         "price": 30,
@@ -17,7 +17,7 @@
     },
     "dahlia": {
         "price": 244,
-        "stock": 65
+        "stock": 55
     },
     "lily": {
         "price": 21,
@@ -29,7 +29,7 @@
     },
     "iris": {
         "price": 20,
-        "stock": 100
+        "stock": 12
     },
     "daisy": {
         "price": 40,
@@ -43,8 +43,8 @@
         "price": 20,
         "stock": 20
     },
-    "re": {
-        "price": 22,
-        "stock": 2
+    "georgia": {
+        "price": 30,
+        "stock": 10
     }
 }
